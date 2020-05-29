@@ -1,5 +1,5 @@
-# ramp_pressure_controller
-controller for ramp up and ramp down pressure chamber
+# ramped_pressure_controller
+controller for ramping up, holding and ramping down pressure chamber according to users script.
 
 
 
