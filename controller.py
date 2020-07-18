@@ -1,6 +1,8 @@
 import time
 import ramping_procedure
+
 ramper = ramping_procedure.RampingProcedure()
+
 try:
 #Comment out "ramper.create_csv()" line to disable csv's
     ramper.create_csv()
